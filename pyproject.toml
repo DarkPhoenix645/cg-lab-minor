@@ -1,0 +1,10 @@
+[project]
+name = "minor-lab-assignment"
+version = "0.1.0"
+description = "Nilanjan Mitra's (2023BCS-501) submission for the CG Lab Minor Exam"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pygame>=2.5.0",
+    "numpy>=1.24.0",
+]
